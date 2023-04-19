@@ -1203,13 +1203,6 @@
       "created": "2014-12-20T20:18:36.256000Z",
       "edited": "2014-12-20T20:58:18.525000Z",
       "url": "https://swapi.dev/api/planets/60/"
-    },
-    {
-      "id": "651f16ab-0ee7-4317-9f2f-5d7850919a03",
-      "name": "brandon",
-      "climate": "cold",
-      "terrain": "rocky",
-      "population": "1"
     }
   ]
 }
